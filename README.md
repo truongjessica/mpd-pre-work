@@ -3,12 +3,12 @@
 ## Hello from Jess!
 
 ### App Description
-`TODO://` Add app description
-
-### App Walk-though
 This app displays a warm greeting from yours truly. Users can change the color of the displayed greeting text.
 
-<img src="https://imgur.com/a/lut3ol3" width=200><br>
+### App Walk-though
+View the warm greeting from yours truly, then click the bottom to change the color of the greeting text.
+
+<img src="https://i.imgur.com/9GpZFek.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
